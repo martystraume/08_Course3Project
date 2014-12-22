@@ -142,7 +142,6 @@ for(i in 1:rowmax){
 colmax <- dim(MeanAndStd)[2]
 MeanAndStdNamed <- cbind(MeanAndStd$SubjectID,ActivityNames,MeanAndStd[,3:colmax])
 columnNames <- colnames(MeanAndStdNamed)
-#columnNames <- c("SubjectID","ActivityName",as.character(features[1:rowmax,2]))
 columnNames <- c("SubjectID","ActivityName",columnNames[3:colmax])
 colnames(MeanAndStdNamed) <- columnNames
 

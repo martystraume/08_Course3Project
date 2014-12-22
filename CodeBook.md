@@ -714,7 +714,7 @@ readings observed for all of the "mean" and "std" original variables (i.e., the
 property referred to by the column headings)
 
 - The following information is listed in the secondary file created by this
-script, called [TidyDataOfAverages_ColumnNames.txt]:
+script, called [TidyDataOfAverages_ColumnNames.txt]
 
 * SubjectID
 * ActivityName

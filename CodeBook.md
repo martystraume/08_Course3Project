@@ -705,15 +705,15 @@ The complete list of variables of each feature vector is available in 'features.
 
 ### Information re: the results produced by this project script's output
 
-- Data file produced as output: [TidyDataOfAverages.txt]
+Data file produced as output: [TidyDataOfAverages.txt]
 
-- Column names refer to the same measures are described above
+Column names refer to the same measures are described above
 
-- Entries for each SubjectID/ActivityName pair correspond to the average of the
+Entries for each SubjectID/ActivityName pair correspond to the average of the
 readings observed for all of the "mean" and "std" original variables (i.e., the
 property referred to by the column headings)
 
-- The following information is listed in the secondary file created by this
+The following information is listed in the secondary file created by this
 script, called [TidyDataOfAverages_ColumnNames.txt]
 
 * SubjectID
